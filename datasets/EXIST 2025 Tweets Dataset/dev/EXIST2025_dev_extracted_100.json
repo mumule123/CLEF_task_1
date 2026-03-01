@@ -1,0 +1,5302 @@
+{
+  "300001": {
+    "id_EXIST": "300001",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Chile",
+      "Serbia",
+      "Portugal",
+      "Mexico",
+      "Spain"
+    ],
+    "tweet": "@Fichinescu La comunidad gamer es un antro de misóginos y supremacistas blancos hace años pero hoy día pocos se acuerdan de gamergate y todo lo que causó, y en cierto sentido sigue causando.",
+    "labels_task1_1": [
+      "NO",
+      "YES",
+      "YES",
+      "NO",
+      "YES",
+      "NO"
+    ]
+  },
+  "300002": {
+    "id_EXIST": "300002",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Spain",
+      "Chile",
+      "United Kingdom",
+      "Chile",
+      "Chile",
+      "Spain"
+    ],
+    "tweet": "@anacaotica88 @MordorLivin No me acuerdo de los detalles de GamerGate, pero ella estuvo en el ojo del huracán recibiendo acoso de hombres indignados (y sus medios frikis) y creo que también acosaron a Brianna Wu, q es transfemenino. Seguramente tuvo eso que ver y quiso \"cerrar filas\".",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "NO",
+      "YES",
+      "YES",
+      "YES"
+    ]
+  },
+  "300003": {
+    "id_EXIST": "300003",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Spain",
+      "Germany",
+      "Portugal",
+      "Spain",
+      "Spain"
+    ],
+    "tweet": "@cosmicJunkBot lo digo cada pocos dias y lo repito: TODO esto se pudo evitar si se hubiera parado el gamergate a tiempo",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300004": {
+    "id_EXIST": "300004",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Portugal",
+      "Mexico",
+      "Mexico",
+      "Spain"
+    ],
+    "tweet": "Also mientras les decia eso la señalaba y decia que como el era del staff, la iban a ban de ese evento. Intel behavior much? Este cabron has sexually harassed women and girls en el community y cuando es confrontado, lo negative y mienta. Ahora salio con esta, HE should be banned.",
+    "labels_task1_1": [
+      "NO",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ]
+  },
+  "300005": {
+    "id_EXIST": "300005",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Spain",
+      "Chile",
+      "United Kingdom",
+      "Chile",
+      "Chile",
+      "Spain"
+    ],
+    "tweet": "And all people killed,  attacked, harassed by CAM, Mapuche Resistance? Siches is a real,piece of work.  Ministra del Interior y muerte de trabajador mapuche: \"No habíamos visto un atentado directo hacia civiles\" https://t.co/xuRGKbW0yi via @emol",
+    "labels_task1_1": [
+      "NO",
+      "YES",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300006": {
+    "id_EXIST": "300006",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Spain",
+      "Germany",
+      "Portugal",
+      "Spain",
+      "Spain"
+    ],
+    "tweet": "On this #WorldPressFreedomDay I’m thinking of journalists &amp; media workers in Mexico killed, imprisoned or harassed for their work / Pensando en todxs lxs periodistxs assasinadxs, incarceradxs o hostigadxs por su oficio#JournalismIsNotACrime#DiaMundialDeLaLibertadDePrensa https://t.co/ZrjLJ4GLLx",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "YES"
+    ]
+  },
+  "300007": {
+    "id_EXIST": "300007",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Spain",
+      "Chile",
+      "United Kingdom",
+      "Chile",
+      "Chile",
+      "Spain"
+    ],
+    "tweet": "@DavidGR18 @pppbernat @abc_es @agarzon @IreneMontero La izquierda tiene culpa en sus silencios cuando les interesa...De valorar mujeres violadas de 1ª y de 2ª, dependiendo de nacionalidad de #LaManada...y como en el asunto inmigración su discurso es el único de riqueza cultural, pues callan como putas. https://t.co/tf9HEgBLqN",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "NO",
+      "YES",
+      "YES",
+      "YES"
+    ]
+  },
+  "300008": {
+    "id_EXIST": "300008",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Middle Eastern",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Chile",
+      "Portugal",
+      "Spain",
+      "Spain",
+      "Venezuela"
+    ],
+    "tweet": "@DavidArranzVox @AnabelAlonso_of Uyyy a q huele? Apesta a xenofobia. Quién no da una es la derecha y los #ppatriotas como tú negando una realidad como la #violenciamachista y la blanquean con otro nombre.Precisamente #lamanada de San Fermín eran de los cuerpos de seguridad del Estado.¿Qué me estás contando?",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "NO",
+      "YES",
+      "YES",
+      "YES"
+    ]
+  },
+  "300009": {
+    "id_EXIST": "300009",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Middle Eastern",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Chile",
+      "Portugal",
+      "Spain",
+      "Spain",
+      "Venezuela"
+    ],
+    "tweet": "Con 25 Leones🦁 y 500 más en las gradas🗣!!#EkoFuego🔥#LaManada https://t.co/jkhENb0jae",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "YES",
+      "NO",
+      "NO"
+    ]
+  },
+  "300010": {
+    "id_EXIST": "300010",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Venezuela",
+      "Mexico",
+      "Chile",
+      "Mexico"
+    ],
+    "tweet": "@kokreto84 @Play87834898 @venusoncrack Me gustaría saber que futbolista condenados por abuso siguen en nómina. Y la verdad el caso de Amber no se puede comparar con nada porque es una mujer que utilizó el metoo para destruir la carrera de su ex un actor muy querido.",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ]
+  },
+  "300011": {
+    "id_EXIST": "300011",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Guatemala",
+      "Mexico",
+      "Portugal",
+      "Spain",
+      "Chile",
+      "Spain"
+    ],
+    "tweet": "@Kormavov No le has dicho nada de usar el MeToo, defendiendo a Amber Heard en el juicio contra Johnny Depp. Si con eso siguen votando a Vox, es que el fascismo es incontenible.",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "YES",
+      "YES",
+      "NO",
+      "YES"
+    ]
+  },
+  "300012": {
+    "id_EXIST": "300012",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Spain",
+      "Germany",
+      "Portugal",
+      "Spain",
+      "Spain"
+    ],
+    "tweet": "@Puyas10 Realmente no se trata solo de JD, se trata de mostrar que la violencia no tiene género, como lo han planteado con el famoso #Metoo, no es puro pedo como leí, es mostrar que también los hombres han soportado por años el abuso doméstico.",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "YES",
+      "YES",
+      "YES"
+    ]
+  },
+  "300013": {
+    "id_EXIST": "300013",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Guatemala",
+      "Mexico",
+      "Portugal",
+      "Spain",
+      "Chile",
+      "Spain"
+    ],
+    "tweet": "@MedinaJoselyn El hombre perfecto para estas mujeres será un lindo gato a quien cuidar cuando pasen los 40-50 años. Las mas exigentes que vayan preparando su pasaporte a gatolandia. Mgtow siempre gana.",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "YES",
+      "NO",
+      "YES",
+      "YES"
+    ]
+  },
+  "300014": {
+    "id_EXIST": "300014",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Chile",
+      "Serbia",
+      "Portugal",
+      "Mexico",
+      "Spain"
+    ],
+    "tweet": "@SophieYunes \"El muro\"Así le llaman los MGTOW. No sé puede ser deseable para siempre.",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "YES",
+      "NO",
+      "YES",
+      "NO"
+    ]
+  },
+  "300015": {
+    "id_EXIST": "300015",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Portugal",
+      "Mexico",
+      "Mexico",
+      "Spain"
+    ],
+    "tweet": "@Bruno_MGTOW @AldeanaPy no sabia que el procedimiento era difundir por twitter, no habia necesidad 0 etica profesional del policia no se justifica ninguno de los 2 casos",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300016": {
+    "id_EXIST": "300016",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Spain",
+      "Germany",
+      "Portugal",
+      "Spain",
+      "Spain"
+    ],
+    "tweet": "Aparte q no tiene nada q ver con lo q está diciendo la muchacha esta. Ella está hablando de una microagresion q sufrimos las mujeres, q a 40 grados tenemos q ir tapaditas porq si no distraemos a los compañeros. Vaya a ser q los señores dejéis d vernos como cachos d carne",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ]
+  },
+  "300017": {
+    "id_EXIST": "300017",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Spain",
+      "Germany",
+      "Portugal",
+      "Spain",
+      "Spain"
+    ],
+    "tweet": "—Insistir en que los genitales determinan el género.Puede ser microagresión por falta de educación, puede ser transfobia pura y dura.—Relacionar determinados diagnósticos con el colectivo LGTBIQA+.Me ahorro el comentario.",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "YES",
+      "NO",
+      "YES",
+      "NO"
+    ]
+  },
+  "300018": {
+    "id_EXIST": "300018",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Middle Eastern",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Chile",
+      "Portugal",
+      "Spain",
+      "Spain",
+      "Venezuela"
+    ],
+    "tweet": "@Ds_OutOfContext Micromachismo me recuerda a cuando en South park el directo PC gritaba MICROAGRESION!",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "NO",
+      "YES"
+    ]
+  },
+  "300019": {
+    "id_EXIST": "300019",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Guatemala",
+      "Mexico",
+      "Portugal",
+      "Spain",
+      "Chile",
+      "Spain"
+    ],
+    "tweet": "¿Cederle el paso a una Sra./Srta. en la cola del autobús como el asiento en un restaurante es:🔄 ¿Micromachismo?♥️ ¿O es una actitud       caballeresca y       respetuosa?",
+    "labels_task1_1": [
+      "YES",
+      "NO",
+      "YES",
+      "YES",
+      "NO",
+      "YES"
+    ]
+  },
+  "300020": {
+    "id_EXIST": "300020",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Chile",
+      "Mexico",
+      "Poland",
+      "Spain",
+      "Mexico",
+      "Mexico"
+    ],
+    "tweet": "De los asuntos más complicados de mi trabajo es el mansplaining. Algunos políticos -de todas las edades- no soportan la crítica de una mujer joven. Desestiman, desautorizan e intentan controlar con micromachismo.Tomo prestada publicación de cuenta IG: @nosotras.womenconnecting. https://t.co/SFxPOCbH9l",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "YES",
+      "NO",
+      "YES",
+      "NO"
+    ]
+  },
+  "300021": {
+    "id_EXIST": "300021",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Portugal",
+      "Mexico",
+      "Mexico",
+      "Spain"
+    ],
+    "tweet": "@pilareyre Os \"Escandaliza\" el culo de Chanel pero no os llama la atención los chicos con el pecho desnudo o los pantalones marcapaquete... Ahí tenemos un micromachismo de manual. Gente como Beyoncé, Jlo, o Ana Torroja lo han llevado en muchos Shows no ha habido problema Evolucionen!",
+    "labels_task1_1": [
+      "YES",
+      "NO",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ]
+  },
+  "300022": {
+    "id_EXIST": "300022",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Portugal",
+      "Mexico",
+      "Italy",
+      "Mexico",
+      "Mexico",
+      "Mexico"
+    ],
+    "tweet": "@DiianaLadron No, no voy a cruzar la calle #notAllMen y yo también prefiero no andar solo en la calle muy tarde, de hecho a ninguna hora en barrios como Aguantafilo o Puñalada",
+    "labels_task1_1": [
+      "NO",
+      "YES",
+      "YES",
+      "YES",
+      "NO",
+      "NO"
+    ]
+  },
+  "300023": {
+    "id_EXIST": "300023",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Spain",
+      "Chile",
+      "United Kingdom",
+      "Chile",
+      "Chile",
+      "Spain"
+    ],
+    "tweet": "Así que hacedme el favor de ahorraros el puto #NotAllMen porque #YesAllWomen, mamarrachos. https://t.co/c0ojjFirZl",
+    "labels_task1_1": [
+      "YES",
+      "NO",
+      "YES",
+      "YES",
+      "NO",
+      "YES"
+    ]
+  },
+  "300024": {
+    "id_EXIST": "300024",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Middle Eastern",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Chile",
+      "Portugal",
+      "Spain",
+      "Spain",
+      "Venezuela"
+    ],
+    "tweet": "@cris7ian Yo no te he preguntado jaja #notallmen Se veía venir.",
+    "labels_task1_1": [
+      "NO",
+      "YES",
+      "NO",
+      "NO",
+      "YES",
+      "NO"
+    ]
+  },
+  "300025": {
+    "id_EXIST": "300025",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Portugal",
+      "Mexico",
+      "Italy",
+      "Mexico",
+      "Mexico",
+      "Mexico"
+    ],
+    "tweet": "@moonlesb_ 22 años, posiblemente una bufanda roja, QUIEN TE LASTIMÓ MAR???? DECINOS QUE LO AGARRAMOS, FUCK THE PATRIARCHY ah",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "NO"
+    ]
+  },
+  "300026": {
+    "id_EXIST": "300026",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Portugal",
+      "Mexico",
+      "Mexico",
+      "Spain"
+    ],
+    "tweet": "@EugeDF_ tal cual, rompemos el obelisco, quemamos muñecos con la cara de Jake Gyllenhaal al grito de you were tossing me the car keys fuck the patriarchy key chain on the ground y agarrate cuando arranque con dear John te traigo la cabeza de ese en una pica",
+    "labels_task1_1": [
+      "NO",
+      "YES",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300027": {
+    "id_EXIST": "300027",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Spain",
+      "Germany",
+      "Portugal",
+      "Spain",
+      "Spain"
+    ],
+    "tweet": "Agarré un desodorante sin querer que se llama Patrichs y pensé que decía Patriarchy jajsjsj olor a VARON",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "YES",
+      "NO",
+      "NO",
+      "YES"
+    ]
+  },
+  "300028": {
+    "id_EXIST": "300028",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Spain",
+      "Germany",
+      "Portugal",
+      "Spain",
+      "Spain"
+    ],
+    "tweet": "#WomensDay: más de 75 países en la Universidad de ITMO @spbifmo_en#MujeresenTecnología #EquidadDeGénero #womenintechhttps://t.co/i45V7GWhgG",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "YES"
+    ]
+  },
+  "300029": {
+    "id_EXIST": "300029",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Middle Eastern",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Chile",
+      "Portugal",
+      "Spain",
+      "Spain",
+      "Venezuela"
+    ],
+    "tweet": "@TGTM_Official @LineThrough @womensday @LiMaizi @BBCWomensHour @janegarvey1 Intolerable!",
+    "labels_task1_1": [
+      "YES",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300030": {
+    "id_EXIST": "300030",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Middle Eastern",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Chile",
+      "Portugal",
+      "Spain",
+      "Spain",
+      "Venezuela"
+    ],
+    "tweet": "EDGAR XAVIERI am ArtCharcoal Pencil on Paper85 X 60 CM#gallery #artgallery #digitalart #art #black #onlineart#artwork #artist #africanart #rangigallery#ArtInTanzania #TanzaniaArt #ArtTanzania #Tanzania#Daressalaam #zanzibar #women #africa #womensday https://t.co/NNhkQ80tPk",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300031": {
+    "id_EXIST": "300031",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Spain",
+      "Chile",
+      "United Kingdom",
+      "Chile",
+      "Chile",
+      "Spain"
+    ],
+    "tweet": "#Kentucky se convirtió en el primer estado que deja de practicar #abortos en sus #clínicas.Para leer más, siga el link:https://t.co/mmnkE9manm #abortionban #derechosdelamujer #womensrights https://t.co/xQvQZSIkYM",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300032": {
+    "id_EXIST": "300032",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Spain",
+      "Chile",
+      "United Kingdom",
+      "Chile",
+      "Chile",
+      "Spain"
+    ],
+    "tweet": "“BAN VIAGRA!!!” 👇👇👇👇👇#impotence #RoeVWade #uspoli #Alabama #prochoice #WomensRights #AbortionIsHealthcare https://t.co/OYBssvHXuh",
+    "labels_task1_1": [
+      "YES",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300033": {
+    "id_EXIST": "300033",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Spain",
+      "Germany",
+      "Portugal",
+      "Spain",
+      "Spain"
+    ],
+    "tweet": "Típica falta de respeto hacia mujeres profesionales, pienso que un conductor que se trata de manera despectiva a sus invitadas no debería salir al aire #Respeto #mujeres #CNNChile #Chile #Women #WomensRights #WomensRightsAreHumanRights  #WomenSupportingWomen https://t.co/XszbDOC5mD",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "YES",
+      "NO",
+      "YES",
+      "YES"
+    ]
+  },
+  "300034": {
+    "id_EXIST": "300034",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Chile",
+      "Mexico",
+      "Poland",
+      "Spain",
+      "Mexico",
+      "Mexico"
+    ],
+    "tweet": "👀Argumentaban que una vez celebrado el juicio militar por acoso laboral y haberlo perdido, ya que el Capitán denunciado ha salido absuelto.Para ellos 🟢 es una sentencia demoledora y piensan que eso debería inhabilitarla para seguir ostentando ningún cargo público.#YoSiTeCreo https://t.co/nbljgqI21g",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "NO",
+      "NO",
+      "YES",
+      "NO"
+    ]
+  },
+  "300035": {
+    "id_EXIST": "300035",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Portugal",
+      "Mexico",
+      "Mexico",
+      "Spain"
+    ],
+    "tweet": "Ya lo que faltaba!! #APOYOAROCIO5M #YoSiTeCreo #Sálvame https://t.co/PhvTxnKydf",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "YES",
+      "NO",
+      "NO"
+    ]
+  },
+  "300036": {
+    "id_EXIST": "300036",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Spain",
+      "Germany",
+      "Portugal",
+      "Spain",
+      "Spain"
+    ],
+    "tweet": "Absuelto, si, pero, quién le devuelve su vida?. Cuanto daño el pvto    #YoSiTeCreo   @IreneMontero   @Adrilastra   #ComunismoEsMiseria   #presunciondeinocencia    #LaReunionSecreta https://t.co/wt5rSNo116",
+    "labels_task1_1": [
+      "YES",
+      "NO",
+      "NO",
+      "YES",
+      "YES",
+      "YES"
+    ]
+  },
+  "300037": {
+    "id_EXIST": "300037",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Portugal",
+      "Mexico",
+      "Italy",
+      "Mexico",
+      "Mexico",
+      "Mexico"
+    ],
+    "tweet": "@GonzaloMalton @solrose_ Jajajaj al machito bobo éste seguro le dijeron que a las mujeres hay que decirles algo malo para que piensen en vos, tremendo virgo",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ]
+  },
+  "300038": {
+    "id_EXIST": "300038",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Portugal",
+      "Mexico",
+      "Mexico",
+      "Spain"
+    ],
+    "tweet": "Que a las mujeres hay que tratarlas en igualdad y no se les pega. Fíjate que cosa más básica. https://t.co/VlWrz6mZee",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "NO",
+      "YES"
+    ]
+  },
+  "300039": {
+    "id_EXIST": "300039",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Middle Eastern",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Chile",
+      "Portugal",
+      "Spain",
+      "Spain",
+      "Venezuela"
+    ],
+    "tweet": "@elReneJimenez A las mujeres hay que protegerlas de gonorreas como este viejo hp",
+    "labels_task1_1": [
+      "YES",
+      "NO",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ]
+  },
+  "300040": {
+    "id_EXIST": "300040",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Spain",
+      "Mexico",
+      "Mexico",
+      "Canada"
+    ],
+    "tweet": "Si usted está pensando en votar r3chazo, le recuedo que Cecila Morel, ex primera dama, le da miedito que se deje de abusar del pueblo, por que ella dijo...“Vamos a tener que disminuir nuestros privilegios y compartir con los demás”...con que dejen de robar ya estariamos!",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "YES",
+      "NO",
+      "NO"
+    ]
+  },
+  "300041": {
+    "id_EXIST": "300041",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Guatemala",
+      "Mexico",
+      "Portugal",
+      "Spain",
+      "Chile",
+      "Spain"
+    ],
+    "tweet": "@GestorbaMor @Ex_Combatiente No mas el comentario es, una burla para quienes lo necesitan, así como @FranciaMarquezM, quiere abusar de los necesitados, usted es una básura.",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300042": {
+    "id_EXIST": "300042",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Chile",
+      "Mexico",
+      "Poland",
+      "Spain",
+      "Mexico",
+      "Mexico"
+    ],
+    "tweet": "Beber daña las neuronas sr. Puente, a quienes les queden claro! Prohibir, probar! La diferencia está, entre probar y abusar! Usted habrá abusado y ahora, como buen socialista, el susconsciente le falla y le sale prohibiendo en vez de probando. La costumbre social comunista! https://t.co/TPe9vUr9M5",
+    "labels_task1_1": [
+      "YES",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300043": {
+    "id_EXIST": "300043",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Spain",
+      "Mexico",
+      "Mexico",
+      "Canada"
+    ],
+    "tweet": "Proceso abreviado del que hiciste uso y abuso? https://t.co/sJpciY05Y4",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300044": {
+    "id_EXIST": "300044",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Spain",
+      "Mexico",
+      "Mexico",
+      "Canada"
+    ],
+    "tweet": "@Emanuelrodguez Que no somos animales para reproducirnos sin consciencia, dejando vástagos por el mundo sin preocuparnos de lo que han de vestir, comer y recibir como educación. Una \"sobrepoblación\" de un hogar espiritual y materialmente inadecuado puede ser causa de males como el abuso sexual.",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "YES",
+      "NO",
+      "NO"
+    ]
+  },
+  "300045": {
+    "id_EXIST": "300045",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Portugal",
+      "Mexico",
+      "Italy",
+      "Mexico",
+      "Mexico",
+      "Mexico"
+    ],
+    "tweet": "ahora que me relaciono de una manera más libre y menos normativa sufro menos esas violencias sistemáticas del amor romántico, pero aún así sufro las secuelas de haber experimentado tanto abuso en el pasado",
+    "labels_task1_1": [
+      "NO",
+      "YES",
+      "YES",
+      "YES",
+      "NO",
+      "YES"
+    ]
+  },
+  "300046": {
+    "id_EXIST": "300046",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Portugal",
+      "Mexico",
+      "Italy",
+      "Mexico",
+      "Mexico",
+      "Mexico"
+    ],
+    "tweet": "¿Qué hay para mi dentro del libro de lecturas recomendadas del programa conocimiento experto Buena Vibra, Buena Vida de Vex King? Aprende el Poder de la Acción Positiva y el Amor Propio para cuestionar y cambiar tu Sistema de Creencias L... https://t.co/4JAsWv894u",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300047": {
+    "id_EXIST": "300047",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Portugal",
+      "Mexico",
+      "Mexico",
+      "Spain"
+    ],
+    "tweet": "Sacar a la luz políticas, prácticas, programas que tanto en presente como en pasado han tenido un impacto positivo, o que constituyen una acción positiva en la mejora de la calidad educativa. Si no conocemos de esto, cómo las desarrollamos y replicamos?",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300048": {
+    "id_EXIST": "300048",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Spain",
+      "Chile",
+      "United Kingdom",
+      "Chile",
+      "Chile",
+      "Spain"
+    ],
+    "tweet": "BRINDAR BENEFICIO:El brindar beneficio se conoce como  una palabra que se origina del latín beneficium, que significa bendición o una acción positiva. El recibir o dar un beneficio representa una buena acción que, con seguridad, genera bienestar y felicidad. Los beneficios https://t.co/RGaopkpGyp",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300049": {
+    "id_EXIST": "300049",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Spain",
+      "Mexico",
+      "Mexico",
+      "Canada"
+    ],
+    "tweet": "sigo pensando en las locas del fandom que pagan por info de ellos y los siguen es como,,,,en serio no tienes nada que hacer que tienes que acosar a tus idols? y estoy 100% segura que si los llegasen a ver con sus parejas estarían tipo \"los biti nos engañaron!!😭\" get a life freak",
+    "labels_task1_1": [
+      "NO",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ]
+  },
+  "300050": {
+    "id_EXIST": "300050",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Venezuela",
+      "Mexico",
+      "Chile",
+      "Mexico"
+    ],
+    "tweet": "@AlbaCarrilloTW @GinebraLady Jorge tiene muchos defectosPero en absoluto se le puede calificar como acosador por decirle ayer 4 cosas a esa mentirosaAcosar es lo que le estan haciendo desde hace años a Rocio Carrasco y encima desde cierta productora parece que lo ven bien",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ]
+  },
+  "300051": {
+    "id_EXIST": "300051",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Venezuela",
+      "Mexico",
+      "Chile",
+      "Mexico"
+    ],
+    "tweet": "Ayer fuimos a un antro gay y todo hermoso. Hasta que a dos se les ocurrió acosar y pelear por una morrita que ni los pelaba… onvres heteros, por supuesto.",
+    "labels_task1_1": [
+      "YES",
+      "NO",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ]
+  },
+  "300052": {
+    "id_EXIST": "300052",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Spain",
+      "Mexico",
+      "Mexico",
+      "Canada"
+    ],
+    "tweet": "El proyecto tiene como nombre “Acción empresarial en la prevención de violencia de género y acoso sexual laboral”, empezará el 24 de mayo, y pueden inscribirse de forma gratuita, todas las empresas medianas o grandes que firmen un acuerdo de compromiso https://t.co/FYCEsIWtmH",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "YES",
+      "NO",
+      "NO"
+    ]
+  },
+  "300053": {
+    "id_EXIST": "300053",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Guatemala",
+      "Mexico",
+      "Portugal",
+      "Spain",
+      "Chile",
+      "Spain"
+    ],
+    "tweet": "@estebancoach Pues de un lado sabes que es broma, del otro lado puede tomarse como acoso sexual...",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "NO",
+      "YES",
+      "YES",
+      "YES"
+    ]
+  },
+  "300054": {
+    "id_EXIST": "300054",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Guatemala",
+      "Mexico",
+      "Portugal",
+      "Spain",
+      "Chile",
+      "Spain"
+    ],
+    "tweet": "@Not_TsundereZ CalvoAh diablos no me denuncies por acoso sexual 😭😭Pero fuera bromas, que tiene que ver una cosa con la otra yo tampoco entiendo nada tiene sentido https://t.co/W2ErmEVqQt",
+    "labels_task1_1": [
+      "NO",
+      "YES",
+      "NO",
+      "NO",
+      "NO",
+      "YES"
+    ]
+  },
+  "300055": {
+    "id_EXIST": "300055",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Guatemala",
+      "Mexico",
+      "Portugal",
+      "Spain",
+      "Chile",
+      "Spain"
+    ],
+    "tweet": "Dios mío oh padre libranos cada día de:°Los accidentes automovilístico. °Los robos.°El acoso.°La infidelidad. °El homicidio/ feminicidio. °El abuso policial.°El abuso. °El desempleo.°El secuestro en Haití.°La guerra de Putin con Ucrania.°Los desastres naturales.",
+    "labels_task1_1": [
+      "NO",
+      "YES",
+      "NO",
+      "YES",
+      "NO",
+      "NO"
+    ]
+  },
+  "300056": {
+    "id_EXIST": "300056",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Chile",
+      "Mexico",
+      "Poland",
+      "Spain",
+      "Mexico",
+      "Mexico"
+    ],
+    "tweet": "Jaja. Mensajes de texto también. Todo enviado después de que ellos avisaron que cobraron. No voy a caer de vuelta @PersonalFlow_At ya me puse recordatorio en el celu. No te parece que me cagaste demasiado ya? Cualquiera puede considerar que es acoso esto. https://t.co/JkJU1SY1hg",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "YES",
+      "NO"
+    ]
+  },
+  "300057": {
+    "id_EXIST": "300057",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Portugal",
+      "Mexico",
+      "Mexico",
+      "Spain"
+    ],
+    "tweet": "@maleficajnk \"Los mismo digo\" La cuestión es que nosotros no estamos en esa charla, solo BTS entonces porque tienen que cuestionar eso? Mientras que están aquí las propias blinks hablando sobre acoso, nunca lo minimice pero no me parece justo hacer la comparación cuando ustedes acosan también",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ]
+  },
+  "300058": {
+    "id_EXIST": "300058",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Chile",
+      "Mexico",
+      "Poland",
+      "Spain",
+      "Mexico",
+      "Mexico"
+    ],
+    "tweet": "Y ya lo del \"amor líquido sin relaciones afectivas\", bro conozco más monogamos que hacen eso y no lo achaco a la monogamia, igual el problema no viene del tipo de relación, sino de las mecánicas que se implementan derivadas del sistema económico que estas intentando criticar",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300059": {
+    "id_EXIST": "300059",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Spain",
+      "Chile",
+      "United Kingdom",
+      "Chile",
+      "Chile",
+      "Spain"
+    ],
+    "tweet": "Me genera tanto asco saber que soy un amor líquido para los demás, que no puedo parar de vomitar",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300060": {
+    "id_EXIST": "300060",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Middle Eastern",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Chile",
+      "Portugal",
+      "Spain",
+      "Spain",
+      "Venezuela"
+    ],
+    "tweet": "La intensidad tiene mala fama en estos tiempos de amor líquido. Evita que uno se desborde de afecto porque el otro puede espantarse. Es una lástima porque por amor se vive, por amor se sufre y por amor tiene sentido el mundo inteligible.",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300061": {
+    "id_EXIST": "300061",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Venezuela",
+      "Mexico",
+      "Chile",
+      "Mexico"
+    ],
+    "tweet": "Hermanas no se conformen con mediocridades, el amor romantico si existe Y LO COMPROBE",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300062": {
+    "id_EXIST": "300062",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Guatemala",
+      "Mexico",
+      "Portugal",
+      "Spain",
+      "Chile",
+      "Spain"
+    ],
+    "tweet": "No sé qué hay de malo en anhelar un amor romántico, será difícil encontrar pero no imposible 🥲",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300063": {
+    "id_EXIST": "300063",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Guatemala",
+      "Mexico",
+      "Portugal",
+      "Spain",
+      "Chile",
+      "Spain"
+    ],
+    "tweet": "Me dan ganas de vomitar cada que pienso en amor romántico o relaciones monógamas perdóname en verdad lo estoy intentando",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "YES"
+    ]
+  },
+  "300064": {
+    "id_EXIST": "300064",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Chile",
+      "Serbia",
+      "Portugal",
+      "Mexico",
+      "Spain"
+    ],
+    "tweet": "seguir idealizando y romantizando características sexo corporales adeptas al androcentrismo y a la masculinidad.",
+    "labels_task1_1": [
+      "NO",
+      "YES",
+      "YES",
+      "YES",
+      "NO",
+      "YES"
+    ]
+  },
+  "300065": {
+    "id_EXIST": "300065",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Portugal",
+      "Mexico",
+      "Mexico",
+      "Spain"
+    ],
+    "tweet": "Esta publicidad solo incluye a gais y bisexuales hombres cisgénero. El androcentrismo se expresa hasta en las luchas más bonitas. Qué mal. https://t.co/7ImlUzsBTB",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "NO",
+      "YES"
+    ]
+  },
+  "300066": {
+    "id_EXIST": "300066",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Middle Eastern",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Chile",
+      "Portugal",
+      "Spain",
+      "Spain",
+      "Venezuela"
+    ],
+    "tweet": "El androcentrismo ha provocado que el diagnóstico y el tratamiento de cientos de enfermedades sean más tardados, erróneos o inexistentes para las mujeres https://t.co/X3zvGAYxOb",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "NO",
+      "YES"
+    ]
+  },
+  "300067": {
+    "id_EXIST": "300067",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Venezuela",
+      "Mexico",
+      "Chile",
+      "Mexico"
+    ],
+    "tweet": "@EstefanChidiac @Arqui_Puebla Hola Monseñor, también asesinar mujeres es pecado",
+    "labels_task1_1": [
+      "YES",
+      "NO",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ]
+  },
+  "300068": {
+    "id_EXIST": "300068",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Chile",
+      "Serbia",
+      "Portugal",
+      "Mexico",
+      "Spain"
+    ],
+    "tweet": "@Dialogo_es @FuerzasMilCol si asesinar mujeres embarazadas , bombardear niños y sacar los ojos a estudiantes, pero con los actores armados si son cagado no a otro perro con ese hueso",
+    "labels_task1_1": [
+      "NO",
+      "YES",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300069": {
+    "id_EXIST": "300069",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Spain",
+      "Germany",
+      "Portugal",
+      "Spain",
+      "Spain"
+    ],
+    "tweet": "@petrogustavo Feminicidios?...es decir los hombres salimos a las calles a asesinar mujeres? Cómo si fuéramos nazis buscando judíos? Muy pendeja tu ideología.",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "YES",
+      "NO",
+      "YES",
+      "YES"
+    ]
+  },
+  "300070": {
+    "id_EXIST": "300070",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Guatemala",
+      "Mexico",
+      "Portugal",
+      "Spain",
+      "Chile",
+      "Spain"
+    ],
+    "tweet": "@xCaptainBolton — Siguió ese beso, que fue corto y rápido pero siempre con mucho sentimiento, lo que no faltaba entre ellos.—¿Te imaginas? Como para pasar por un sitio de hiedra y que nos empiece a picar todo el cuerpo.— La imagen no era nada atractiva, la de Troy desnudo por supuesto +",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300071": {
+    "id_EXIST": "300071",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Portugal",
+      "Mexico",
+      "Italy",
+      "Mexico",
+      "Mexico",
+      "Mexico"
+    ],
+    "tweet": "Atestigua alcalde @JGimNogales ceremonia de pesaje de atractiva función de box @GobiernoNogales @DeporteNogales #Nogales https://t.co/sMkOe3Vgij",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300072": {
+    "id_EXIST": "300072",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Portugal",
+      "Mexico",
+      "Italy",
+      "Mexico",
+      "Mexico",
+      "Mexico"
+    ],
+    "tweet": "@Charlypepa69 Ah claro que sí , igual y en una de esas me permiten invitarles unas frías para conocernos , pues ella me parece sumamente atractiva",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "YES",
+      "NO",
+      "NO",
+      "YES"
+    ]
+  },
+  "300073": {
+    "id_EXIST": "300073",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Spain",
+      "Mexico",
+      "Mexico",
+      "Canada"
+    ],
+    "tweet": "@betty47866399 No te debes avergonzar, es un trabajo digno. Y si te dicen lo contrario es por que no saben valorar lo que hace el resto.",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "YES",
+      "NO",
+      "NO"
+    ]
+  },
+  "300074": {
+    "id_EXIST": "300074",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Venezuela",
+      "Mexico",
+      "Chile",
+      "Mexico"
+    ],
+    "tweet": "Que le ocurra a una sola persona ya debería avergonzar al diplomático. La vergüenza lleva un retraso de años...https://t.co/fDhv9PuvrR",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300075": {
+    "id_EXIST": "300075",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Chile",
+      "Serbia",
+      "Portugal",
+      "Mexico",
+      "Spain"
+    ],
+    "tweet": "@Solateras33 @tarari_q_t_lei @RealDonBernabeu Vamos, que estamos justificando esto? No creo no, evidentemente, es mejor prevenir que curar, pero creo que esto debería avergonzar a todo Atlético, al igual que me pasaría a mi con mi Real Madrid, menos mal que mis buenos amigos atléticos, no son asi",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300076": {
+    "id_EXIST": "300076",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Guatemala",
+      "Mexico",
+      "Portugal",
+      "Spain",
+      "Chile",
+      "Spain"
+    ],
+    "tweet": "@Pajaropolitico @lopezobrador_ @GobiernoMX Que no vaya, recuerdan que la última vez en la @ONU_es nos avergonzó?... Fue a pedir dinero para sus programas y a criticar a todos cuando a los mexicanos nos tiene hasta la madre de violencia, sin medicamentos, trabajo y salud!! https://t.co/TikbU3jwBQ",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300077": {
+    "id_EXIST": "300077",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Chile",
+      "Serbia",
+      "Portugal",
+      "Mexico",
+      "Spain"
+    ],
+    "tweet": "@HannaIsBack Mi madre mapuche champurria ocultó y se avergonzó siempre de su origen, sufrió mucho de niña, año 2004 saque cert  indígena mío y de mis hijos, ellos, al igual que yo, son orgullosos de su ascendencia, pero llegar a eso costó mucho😕",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "YES",
+      "NO",
+      "NO"
+    ]
+  },
+  "300078": {
+    "id_EXIST": "300078",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Portugal",
+      "Mexico",
+      "Mexico",
+      "Spain"
+    ],
+    "tweet": "@shercanada2005 Por qué se avergonzó casi 25 años? Después, que sea lo que carajo quiera.",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300079": {
+    "id_EXIST": "300079",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Spain",
+      "Chile",
+      "United Kingdom",
+      "Chile",
+      "Chile",
+      "Spain"
+    ],
+    "tweet": "@LuigiDev @ivanedlm Se llama resumen, la parte de marilin no tiene interés alguno, menos aún viniendo de alguien a quien le gustaría azotar mujeres hasta hacerlas sangrar.",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ]
+  },
+  "300080": {
+    "id_EXIST": "300080",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Middle Eastern",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Chile",
+      "Portugal",
+      "Spain",
+      "Spain",
+      "Venezuela"
+    ],
+    "tweet": "@Parruinalamia Ella invento la mujer, el resto de géneros y castigó al hombre por ser hombre.Y si estas con esa idea, puedes azotar mujeres fachas hasta que sangren.",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "NO",
+      "YES"
+    ]
+  },
+  "300081": {
+    "id_EXIST": "300081",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Middle Eastern",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Chile",
+      "Portugal",
+      "Spain",
+      "Spain",
+      "Venezuela"
+    ],
+    "tweet": "@Kiwiwifer @xeritdelvalle @peemea68 @Bizkaia El cristianismo no dice \"hay q abusar de los niños\", el islam si permite azotar mujeres y colgar homosexuales ..ves la diferencia?",
+    "labels_task1_1": [
+      "NO",
+      "YES",
+      "YES",
+      "YES",
+      "NO",
+      "YES"
+    ]
+  },
+  "300082": {
+    "id_EXIST": "300082",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Spain",
+      "Germany",
+      "Portugal",
+      "Spain",
+      "Spain"
+    ],
+    "tweet": "@Thecoffee_maker Si pero en el estamento dirigente (que es un subconjunto de quienes tienen \"situacion acomodada\") hay barreras invisibles que impiden la entrada de personas de otros orígenes",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "YES",
+      "NO",
+      "NO"
+    ]
+  },
+  "300083": {
+    "id_EXIST": "300083",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Spain",
+      "Germany",
+      "Portugal",
+      "Spain",
+      "Spain"
+    ],
+    "tweet": "#EnVivo Conferencia \"Barreras invisibles para madres trabajadoras\", impartida por la Mtra. Virginia Shaday Gutiérrez León https://t.co/a0I792uYSb @diigeBUAP @BUAPoficial",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "NO",
+      "YES"
+    ]
+  },
+  "300084": {
+    "id_EXIST": "300084",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Middle Eastern",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Chile",
+      "Portugal",
+      "Spain",
+      "Spain",
+      "Venezuela"
+    ],
+    "tweet": "@Chicocartera Ojo un Soulslike de Mimos.A ver quién es el listo que pasa a través de sus barreras invisibles.",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300085": {
+    "id_EXIST": "300085",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Venezuela",
+      "Mexico",
+      "Chile",
+      "Mexico"
+    ],
+    "tweet": "\"hip dips are ok &lt;3\" y sube una foto de sus hip dips casi imperceptibles pero con el polo todo subido para que se le vea la cinturita, el culaso y su thigh gap XDDD body positivity mis pelotas :)",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ]
+  },
+  "300086": {
+    "id_EXIST": "300086",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Spain",
+      "Chile",
+      "United Kingdom",
+      "Chile",
+      "Chile",
+      "Spain"
+    ],
+    "tweet": "ay ya regresaron los filtros mamadores jajaja ya ustedes haciendo toda una campaña body positivity",
+    "labels_task1_1": [
+      "YES",
+      "NO",
+      "NO",
+      "YES",
+      "YES",
+      "NO"
+    ]
+  },
+  "300087": {
+    "id_EXIST": "300087",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Spain",
+      "Germany",
+      "Portugal",
+      "Spain",
+      "Spain"
+    ],
+    "tweet": "Les encanta mamar de body positivity hasta que es alguien flacx. Dejen de opinar sobre el cuerpo de lxs demás🤫",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "NO",
+      "NO"
+    ]
+  },
+  "300088": {
+    "id_EXIST": "300088",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Spain",
+      "Mexico",
+      "Mexico",
+      "Canada"
+    ],
+    "tweet": "¡Que es estoooo! jajaja ay lo que me faltaba por ver jajajaEEUU da luz verde a las primeras bragas que protegen de infecciones durante el sexo oral https://t.co/0ih2l2L7Vw a través de @ABC_Sociedad",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "YES",
+      "NO",
+      "NO"
+    ]
+  },
+  "300089": {
+    "id_EXIST": "300089",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Portugal",
+      "Mexico",
+      "Italy",
+      "Mexico",
+      "Mexico",
+      "Mexico"
+    ],
+    "tweet": "Os confieso q cada vez q veo una foto de orslok 2015 se me caen las bragas",
+    "labels_task1_1": [
+      "YES",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "YES"
+    ]
+  },
+  "300090": {
+    "id_EXIST": "300090",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Chile",
+      "Serbia",
+      "Portugal",
+      "Mexico",
+      "Spain"
+    ],
+    "tweet": "@dolumouri99 si e non vamos mencionar que sujeto me viu as bragas pola túa culpa😘",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "YES",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300091": {
+    "id_EXIST": "300091",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Spain",
+      "Mexico",
+      "Mexico",
+      "Canada"
+    ],
+    "tweet": "La jornada intensiva en los colegios perjudica a los alumnos y agrava la brecha de género https://t.co/9fV5fxcZEm a través de @La_SER",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "YES",
+      "NO",
+      "NO"
+    ]
+  },
+  "300092": {
+    "id_EXIST": "300092",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Chile",
+      "Mexico",
+      "Poland",
+      "Spain",
+      "Mexico",
+      "Mexico"
+    ],
+    "tweet": "📢@EITFood abre plazo para presentar candidaturas a su iniciativa \"Empowering Women in Agrifood\" que apoya #proyectos fundados por #mujeres con el objetivo de superar la #brecha de #género que existe en el sector #agroalimentario.➕ Info e inscripción 👇 https://t.co/sEVQenYnc7",
+    "labels_task1_1": [
+      "NO",
+      "YES",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300093": {
+    "id_EXIST": "300093",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Spain",
+      "Germany",
+      "Portugal",
+      "Spain",
+      "Spain"
+    ],
+    "tweet": "En nuestra provincia, existe una importante brecha de género de empleo juvenil. Mientras que el 45% de varones se encuentra empleado, sólo se encuentra en la misma situación el 25% de mujeres.",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ]
+  },
+  "300094": {
+    "id_EXIST": "300094",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Portugal",
+      "Mexico",
+      "Mexico",
+      "Spain"
+    ],
+    "tweet": "En el centro de Fundación Cepaim en #Algeciras se ha puesto en marcha el taller 'Conectad@s' en el que participan 10 mujeres migrantes residentes en la localidad.👉 Una formación que pretende disminuir la brecha digital de género.#SalirDelCirculo @inclusiongob https://t.co/dHuAsasmUP",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "YES",
+      "NO",
+      "NO",
+      "YES"
+    ]
+  },
+  "300095": {
+    "id_EXIST": "300095",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Spain",
+      "Chile",
+      "United Kingdom",
+      "Chile",
+      "Chile",
+      "Spain"
+    ],
+    "tweet": "La formación es esencial para eliminar de la raíz la brecha digital de género y superar estereotipos https://t.co/B6HAQ6Mxmm vía @UGT_Comunica",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300096": {
+    "id_EXIST": "300096",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Middle Eastern",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Chile",
+      "Portugal",
+      "Spain",
+      "Spain",
+      "Venezuela"
+    ],
+    "tweet": "⚫ En cuanto a la brecha digital de género relacionada con el uso de Internet, España se sitúa en el puesto de 26 (Bahréin o Costa Rica demuestran mejor desempeño). https://t.co/7JDZLRJczG https://t.co/GEZHKGXU6c",
+    "labels_task1_1": [
+      "NO",
+      "YES",
+      "YES",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  },
+  "300097": {
+    "id_EXIST": "300097",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Portugal",
+      "Mexico",
+      "Italy",
+      "Mexico",
+      "Mexico",
+      "Mexico"
+    ],
+    "tweet": "Brecha salarial de género, un reflejo de la sociedad. La visión de Fernanda Vicente y Desafío 10X.https://t.co/5N0pjf34F6 https://t.co/HLnt9T2ipG",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ]
+  },
+  "300098": {
+    "id_EXIST": "300098",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Portugal",
+      "Mexico",
+      "Mexico",
+      "Spain"
+    ],
+    "tweet": "@JPiiiNKMan @marcosprada_03 @celialaso1 ah que a los hombres en las entrevistas os preguntan si queréis tener hijos? sabes lo que es el techo de cristal? la brecha salarial de género? las diferencias de lo que cobran las mujeres y los hombres? a ver si la clase de gratis te la voy a tener que dar yo al final",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES",
+      "YES"
+    ]
+  },
+  "300099": {
+    "id_EXIST": "300099",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Master’s degree",
+      "Master’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Master’s degree"
+    ],
+    "countries_annotators": [
+      "Italy",
+      "Spain",
+      "Germany",
+      "Portugal",
+      "Spain",
+      "Spain"
+    ],
+    "tweet": "Lanzamos #EquiRutas con el propósito de incrementar la participación de las mujeres en el sector laboral, vinculación en cargos de liderazgo y reducir la brecha salarial de género. 👩🏽‍💼👩🏽‍💻¡Únete con tu organización a esta #IPG! ➡️ https://t.co/wSH7FIV74b https://t.co/EO6eK8OTfQ",
+    "labels_task1_1": [
+      "YES",
+      "YES",
+      "NO",
+      "NO",
+      "YES",
+      "YES"
+    ]
+  },
+  "300100": {
+    "id_EXIST": "300100",
+    "lang": "es",
+    "gender_annotators": [
+      "F",
+      "F",
+      "F",
+      "M",
+      "M",
+      "M"
+    ],
+    "age_annotators": [
+      "18-22",
+      "23-45",
+      "46+",
+      "18-22",
+      "23-45",
+      "46+"
+    ],
+    "ethnicities_annotators": [
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "Hispano or Latino",
+      "White or Caucasian"
+    ],
+    "study_levels_annotators": [
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "Bachelor’s degree",
+      "High school degree or equivalent",
+      "Bachelor’s degree",
+      "Bachelor’s degree"
+    ],
+    "countries_annotators": [
+      "Mexico",
+      "Mexico",
+      "Spain",
+      "Mexico",
+      "Mexico",
+      "Canada"
+    ],
+    "tweet": "Es cierto que empalar a alguien y hacer bullying no son lo mismo, pero una cosa sí puede llevar a la otra. El bullying se puede medir con violentómetro. Lo que comienza con burlas, risas, y “chistes pesados” (que de chistes no tienen nada), sí puede terminar en la muerte.",
+    "labels_task1_1": [
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO",
+      "NO"
+    ]
+  }
+}
